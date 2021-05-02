@@ -1,4 +1,4 @@
-# Images-to-PDG-Conversion-Automation
+# Images-to-PF-Conversion-Automation
 
 This is a small but a cool project I worked on, with the goal here being to automate the boring mundane task of organizing multiple image files in a PDF document.
 Instead of using word or other existing softwares for these stuff, this Python code is capable of producing a PDF document with all the images.
